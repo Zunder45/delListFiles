@@ -1,3 +1,12 @@
-path = "/home/qwerty/Pictures/screenshots/fsdfsdfds/sdfdsf/"
 
-file_ignore = ["Excel.xlsx", "Новый каталог"]
+path = [
+    # "path1",
+    # "path2",
+    # "path3",
+    ""
+]
+
+file_ignore = [
+    # "file1",
+    # "file2"
+]
